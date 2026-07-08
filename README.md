@@ -19,7 +19,7 @@ dataset curation → LoRA fine-tuning → benchmarking → deployment.
 | MultiPL-E | **67.49%** | Beats Qwen2.5-Coder-7B (65%) ✅ |
 | LiveCodeBench | 23.5% | Close to reference ✅ |
 
-🤗 [K1shan/chitti-beast-merged](https://huggingface.co/K1shan/chitti-beast-merged)
+🤗 [K1shan/chitti-beast-merged](https://huggingface.co/K1shan/chitti)
 
 Built entirely on MoLab (Marimo) — RTX PRO 6000 Blackwell, 102GB VRAM.
 
