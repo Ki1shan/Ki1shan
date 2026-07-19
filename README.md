@@ -21,7 +21,7 @@ dataset curation → LoRA fine-tuning → benchmarking → deployment.
 
 🤗 [K1shan/chitti-beast-merged](https://huggingface.co/K1shan/chitti)
 
-Built entirely on MoLab (Marimo) — RTX PRO 6000 Blackwell, 102GB VRAM.
+Built entirely on RTX PRO 6000 Blackwell, 102GB VRAM.
 
 ---
 
