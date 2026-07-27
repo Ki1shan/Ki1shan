@@ -6,11 +6,11 @@ Cybersecurity Engineer + AI Systems Builder
 
 ## 🔥 Current Focus
 
-- Enterprise AI Systems
-- Cybersecurity
-- AI Infrastructure
-- Runtime Discovery
-- Secure Model Deployment
+• Enterprise AI Systems
+• Cybersecurity
+• AI Infrastructure
+• Secure AI Deployment
+• Software Engineering
 
 ## 🌟 Featured Projects
 
