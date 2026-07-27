@@ -1,23 +1,24 @@
-👋 Hi, I'm Kishan.
+# 👋 Hi, I'm Kishan
 
-Cybersecurity Engineer.
+Cybersecurity Engineer • AI Systems Builder
 
-AI Systems Builder.
+🚀 Building **Chitti** — an enterprise AI platform for secure, hardware-independent AI deployment.
 
-Creator of Chitti.
+## 🔥 Current Focus
 
-Current Focus
+- Enterprise AI Systems
+- Cybersecurity
+- AI Infrastructure
+- Runtime Discovery
+- Secure Model Deployment
 
-• Enterprise AI Platform
-• Coding Models
-• AI Infrastructure
-• Hardware Runtime
-• Cybersecurity
+## 🌟 Featured Projects
 
-Recent Work
+🚀 Chitti  
+Enterprise AI Platform
 
-🚀 Chitti Platform
+🛡 BugHunter AI Elite  
+Offensive Security Framework
 
-🛡 BugHunter
-
-🏥 PACS Security Auditor
+🏥 PACS Security Auditor  
+Healthcare Cybersecurity Platform
