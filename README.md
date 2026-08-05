@@ -2,7 +2,7 @@
 
 Cybersecurity Engineer + AI Systems Builder
 
-🚀 Building **Chitti** - an enterprise AI platform for secure, hardware-independent AI deployment.
+🚀 Building **Buddy** - an enterprise AI platform for secure, hardware-independent AI deployment. Creator of a coding model named **Chitti**
 
 ## 🔥 Current Focus
 
@@ -14,10 +14,10 @@ Cybersecurity Engineer + AI Systems Builder
 
 ## 🌟 Featured Projects
 
-🚀 Chitti  
+🚀 Buddy  
 Enterprise AI Platform
 
-🛡 BugHunter AI Elite  
+🛡 BugHunter  
 Offensive Security Framework
 
 🏥 PACS Security Auditor  
