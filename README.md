@@ -2,7 +2,7 @@
 
 Cybersecurity Engineer + AI Systems Builder
 
-🚀 Building **Buddy** - an enterprise AI platform for secure, hardware-independent AI deployment. Creator of a coding model named **Chitti**
+🚀 Building **Buddy Platform** - an Dual AI platform for secure deployment. Creator of a coding model named **Chitti**
 
 ## 🔥 Current Focus
 
