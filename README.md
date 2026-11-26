@@ -44,6 +44,5 @@ I believe in learning by doing, measuring results and shipping real working soft
 
 - **Portfolio:** https://kishannportfolio.netlify.app/
 - **LinkedIn:** https://linkedin.com/in/kkishann
-- **GitHub:** https://github.com/Ki1shan
 
 Always building, always learning. 🚀
